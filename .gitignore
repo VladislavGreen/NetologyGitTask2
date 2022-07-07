@@ -1,0 +1,6 @@
+# Игнорируем следующие файлы:
+Thumbs.db
+*.DS_Store
+tmp/
+*.*_old
+*.*_backup
